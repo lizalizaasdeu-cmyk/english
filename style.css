@@ -1,0 +1,42 @@
+body {
+	/*background-color:#FFFDF8;*/
+	background-image:url("https://i.pinimg.com/originals/0c/bf/b1/0cbfb1f7fcb48363ad73e53530e70d81.jpg?nii=t");
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+p {
+	text-indent:30px;
+	font-size:20px;
+}
+caption {
+	text-align:left;
+}
+table {
+	border:1px solid black; 
+	border-collapse: collapse;
+	font-size:25px;
+}
+th, td {
+	border:1px solid black; 
+	height: 50px;
+}
+img {
+	width:50%;
+}
+h1 {
+	font-size:35px;
+}
+h2 {
+	font-size:27px;
+}
+h3 {
+	font-size:25px;
+}
+ul {
+	list-style:url("22iconpen.png")
+}
+il {
+	font-size:22px;
+}
+
+	
